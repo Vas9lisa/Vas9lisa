@@ -1,4 +1,4 @@
-### Hi there 👋
+### Учусь у Вадима Ксендзова и прохожу стажировку в Identité
 
 <!--
 **Vas9lisa/Vas9lisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
