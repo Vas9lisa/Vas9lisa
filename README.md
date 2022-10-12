@@ -3,6 +3,7 @@
 
 👩‍💻Прохожу стажировку в Identité и на одиночных проектах от компании ITX
 
+![image](https://user-images.githubusercontent.com/106345650/195435183-2b65e6f7-47ab-4889-8281-84b91b103d46.png)
 <!--
 **Vas9lisa/Vas9lisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
